@@ -19,4 +19,4 @@ switch ($_POST['action']){
 
 //test - имя моего домена
 
-header("Location: http://test/test_LOG [IN] OFF_2/index.php?result=$result");
+header("Location: http://test/test_LOG-IN-OFF_2/index.php?result=$result");
