@@ -17,6 +17,6 @@ switch ($_POST['action']){
         break;        
 };
 
-//test - имя папки для лежат хосты
+//test - имя моего домена
 
 header("Location: http://test/test_LOG [IN] OFF_2/index.php?result=$result");
